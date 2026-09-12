@@ -1,2 +1,1 @@
-# ip-calculator
-Fun little project I'm doing since I'm bored.
+1. This isn't actually an IP calculator, it's a note pop up that.
