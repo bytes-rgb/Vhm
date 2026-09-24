@@ -5,3 +5,5 @@ st = {"val","mouse","keys","dino"}
 st = {"vandel","Phantom"]
 select "Vandel" 
 from st:
+list = st
+print(list)
